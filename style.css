@@ -1,0 +1,9 @@
+:root{
+    --cor-de-fundo1: rgb(0, 42, 77);
+    --cor-de-fundo2: rgb(102, 9, 9);
+}
+
+body{
+    background-repeat: no-repeat;
+    background-image: linear-gradient(red, yellow);
+}
